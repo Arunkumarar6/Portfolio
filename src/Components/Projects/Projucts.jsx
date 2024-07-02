@@ -1,9 +1,9 @@
 import React from 'react'
 import './project.css'
-import star from '../../assets/star.jpg'
-import skillnet from '../../assets/skillnet.jpg'
-import adf from '../../assets/adf.jpg'
-import thinkactive from '../../assets/thinkactive.jpg'
+import star from '../assets/star.jpg'
+import skillnet from '../assets/skillnet.jpg'
+import adf from '../assets/adf.jpg'
+import thinkactive from '../assets/thinkactive.jpg'
 
 
 

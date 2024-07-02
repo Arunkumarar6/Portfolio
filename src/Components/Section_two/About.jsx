@@ -1,8 +1,8 @@
 import React from 'react'
 import './About.css'
-import edu from '../../assets/edu.png'
-import exp from '../../assets/exp.png'
-import cer from '../../assets/cer.png'
+import edu from '../assets/edu.png'
+import exp from '../assets/exp.png'
+import cer from '../assets/cer.png'
 
 
 
@@ -11,7 +11,7 @@ const About = () => {
     <div className='about-section' name="About">
         <div className='box'>
             <div className='logo'>
-                <img src={edu}</img>} />
+                <img src={edu} />
             </div>
             <div className='content'>
                 <h2>Education</h2>

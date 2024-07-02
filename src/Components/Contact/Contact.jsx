@@ -1,8 +1,8 @@
 import React, { useState } from 'react'
 import './Contact.css'
-import OIP from '../../assets/OIP.jpg'
-import pho from '../../assets/pho.jpg'
-import add from '../../assets/add.jpg'
+import OIP from '../assets/OIP.jpg'
+import pho from '../assets/pho.jpg'
+import add from '../assets/add.jpg'
 
 
 

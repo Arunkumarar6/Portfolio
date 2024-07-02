@@ -1,4 +1,4 @@
-.section_one{     background-image: url(/src/assets/banner.jpg);
+.section_one{     background-image: url(../assets/banner.jpg);
     display: flex;
     justify-content: center;
     align-items: center;
