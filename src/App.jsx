@@ -28,7 +28,7 @@ function App() {
       <Sectionone/>
       <Title title='About' />
       <About/>
-      <Title title='Projects' />
+      <Title title='Project' />
       <Projucts/>
       <Title title='Get In Touch' />
       <Contact/>
